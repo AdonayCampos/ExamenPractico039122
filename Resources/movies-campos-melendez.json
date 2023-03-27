@@ -1,0 +1,33 @@
+[{
+  "_id": 1,
+  "title": "The Avengers : \"Los Vengadores\"",
+  "film_director": "Joss Whedon",
+  "release_date": "12/04/2012",
+  "genre": "Ciencia Ficción",
+  "writer": "Joss Whedon",
+  "cast": "Robert Downey Jr, Chris Evans, Mark Ruffalo"
+},{
+  "_id": 2,
+  "title": "Mujer Maravilla",
+  "film_director": "Patty Jenkins",
+  "release_date": "02/06/2017",
+  "genre": "Ciencia Ficción",
+  "writer": "Zack Snyder",
+  "cast": "Gal Gadot, Chris Pine, Robin Wrigh"
+},{
+  "_id": 3,
+  "title": "Todo en todas partes al mismo tiempo",
+  "film_director": "Daniel Kwan",
+  "release_date": "25/03/2022",
+  "genre": "Drama",
+  "writer": "Daniel Scheinert",
+  "cast": "Michelle Yeoh, Ke Huy Quan"
+},{
+  "_id": 4,
+  "title": "La Ballena",
+  "film_director": "Darren Aronofsky",
+  "release_date": "25/03/2022",
+  "genre": "Drama",
+  "writer": "Samuel D. Hunter",
+  "cast": "Brendan Fraser, Hong Chau"
+}]
